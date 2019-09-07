@@ -1,3 +1,4 @@
 *.log
 *.vagrant
-/data/*
+/data/config
+/data/*.sh
